@@ -8,7 +8,7 @@ import numpy as np
 # print (cv2.__version__<'3.1')
 
 
-imgpath = 'data/D52.jpg'
+imgpath = 'data/D26.jpg'
 img = cv2.imread(imgpath)
 img_slices = sg.run(img)
 cv2.imshow('src', img)
