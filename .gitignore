@@ -1,0 +1,10 @@
+*.pyc
+/build
+/.idea
+*.py~
+
+
+__pycache__
+.DS_Store
+.git
+._.DS_Store
